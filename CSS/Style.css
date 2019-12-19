@@ -1,0 +1,37 @@
+body {
+    background:red;
+    background: yellow;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: salmon;
+    font-family: fantasy;
+}
+
+h2 {
+    color: indigo;
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+.img_full {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    margin-bottom: 10px;
+    width: 30px;
+}
+]
